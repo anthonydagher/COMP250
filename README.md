@@ -1,4 +1,6 @@
 # COMP250
  Assignments from COMP250 at McGill University.
  
- This code is in no way perfect and should not be copied. McGill runs anti-plagiarism software to detect any plagiarized work.
+*DISCLAIMER*
+These are not perfect projects and shouldn't be copied.
+McGill University's Engineering Faculty uses code-plagiarism software to detect any copied code.
